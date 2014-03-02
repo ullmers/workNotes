@@ -4,8 +4,12 @@ Updated on GitHub
 
 Does it sync automatically?
 
+<<<<<<< HEAD
 
 How about now
 
 How does it reconcile
 
+=======
+How does it reconcile
+>>>>>>> FETCH_HEAD
